@@ -1,15 +1,15 @@
 
 public class Lvariable {
 
-		public void pupAge() {
+		public void Student() {
 		      int age = 0;
-		      age = age + 7;
-		      System.out.println("Puppy age is : " + age);
+		      age = age + 24;
+		      System.out.println("Student age is : " + age);
 		   }
 
 		   public static void main(String args[]) {
 		      Lvariable test = new Lvariable();
-		      test.pupAge();
+		      test.Student();
 		   }
 		}
 
